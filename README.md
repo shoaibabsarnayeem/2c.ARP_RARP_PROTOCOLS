@@ -68,9 +68,11 @@ c.close()
 
 ```
 ## OUPUT - ARP
-server
+## server
 ![alt text](<Screenshot 2026-02-12 112437.png>)
-client
+
+
+## client
 ![alt text](<Screenshot 2026-02-12 112446.png>)
 
 ## RESULT
